@@ -30,7 +30,12 @@ Je colorie les 3 premiers mots en jaune.
 
 ## Grammaire : 
 ``` python
-Identifier les phrases, les groupes dans la phrase, le verbe, le sujet et comprendre la relation sujet/verbe, Transformer une phrase négative en phrase affirmative et vice versa, Interpréter et employer les pronoms, Orthographier les formes verbales les plus fréquentes., Découvrir et employer l’imparfait.
+Identifier les phrases, les groupes dans la phrase, le verbe, 
+le sujet et comprendre la relation sujet/verbe, 
+Transformer une phrase négative en phrase affirmative et vice versa, 
+Interpréter et employer les pronoms, 
+Orthographier les formes verbales les plus fréquentes, 
+Découvrir et employer l’imparfait.
 ```
 
 Je lis le texte de la semaine rangé dans mon lutin:
@@ -110,7 +115,7 @@ Dans ton cahier de QLM, recopie le titre puis écris tes hypothèses :
   <dt>Mes hypothèses :</dt>
 <dd>
 Chez toi, prends quelques solides : exemples : stylo, taille crayon, pâte à modeler, semoule, lentilles, cailloux...
-</dd>
+</dd></dl>
 
 Copie dans ton cahier :
 
