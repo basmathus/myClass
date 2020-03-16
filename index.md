@@ -36,27 +36,27 @@ Je lis le texte de la semaine rangé dans mon lutin:
 
 Phase orale à faire avec l’aide d’ un adulte :
 
-Qui raconte cette histoire ?
+- Qui raconte cette histoire ?
 
-Que faisait Zouzou quand il était jeune ?
+- Que faisait Zouzou quand il était jeune ?
 
-Pourquoi Maman le grondait-elle ?
+- Pourquoi Maman le grondait-elle ?
 
-Qu’aimait-il faire surtout ?
+- Qu’aimait-il faire surtout ?
 
-Et maintenant est-il toujours aussi fou ? Pourquoi ?
+- Et maintenant est-il toujours aussi fou ? Pourquoi ?
 
-Expliquer les mots : mordiller – gambader – adulte.
+- Expliquer les mots : mordiller – gambader – adulte.
 
-L’histoire est-elle racontée au passé, au présent ou au futur ?
+- L’histoire est-elle racontée au passé, au présent ou au futur ?
 
-Retrouve la partie au passé et celle au présent.
+- Retrouve la partie au passé et celle au présent.
 
-La partie du texte qui se déroule au passé est écrite à l’imparfait.
+```La partie du texte qui se déroule au passé est écrite à l’imparfait.```
 
-Compte le nombre de paragraphes.
+- Compte le nombre de paragraphes.
 
-Lis des phrases du texte.
+- Lis des phrases du texte.
 
 *Phase écrite en autonomie* : Sur ton cahier de travail
 
@@ -68,19 +68,17 @@ cassait des objets – parfois – Zouzou – dans la maison– en sautant - .
 
 2. Transforme en phrase négative la phrase : 
 
-Il aime encore s’amuser avec moi. 
+  Il aime encore s’amuser avec moi. 
 
 3. Transforme la phrase suivante en phrase affirmative : 
 
-Elle ne criait plus. 
+  Elle ne criait plus. 
 
 4. Dans les phrases suivantes, encadre le sujet, souligne le verbe, donne son infinitif, indique si le sujet est un pronom ou un GN : 
 
-Zouzou mordillait les chaussons. 
-
-Parfois, mon jeune chien cassait des objets. 
-
-Dans les prés, il gambadait dans l’herbe. 
+  Zouzou mordillait les chaussons. 
+  Parfois, mon jeune chien cassait des objets.
+  Dans les prés, il gambadait dans l’herbe. 
 
 ## Mathématiques: 
 *Comparer des quantités, des nombres, effectuer des multiplications du type : 40 × 7, 300 × 3…*
@@ -107,26 +105,28 @@ Dans ton cahier de QLM, recopie le titre puis écris tes hypothèses :
 **Qu’est-ce qu’un solide?**
 
 <dl>
-  <dt>*Mes hypothèses* :</dt>
+  <dt>Mes hypothèses :</dt>
 <dd>
 Chez toi, prends quelques solides : exemples : stylo, taille crayon, pâte à modeler, semoule, lentilles, cailloux...
+</dd>
 
 Copie dans ton cahier :
 
 Nous pouvons tenir dans les mains un solide, on peut faire des tas avec ex : sable, semoule, lentilles, cailloux, pâte à modeler, etc…
-</dd>
+
 
 **Qu’est-ce qu’un liquide?**
 
 <dl>
-  <dt>*Mes hypothèses*</dt> :
+  <dt>Mes hypothèses : </dt>
 <dd>
 Chez toi, mets un peu d’eau dans un gobelet.
-
+  </dd></dl>
 Copie dans ton cahier:
 
+
 Nous ne pouvons pas prendre un liquide avec les doigts, il coule. Les liquides prennent la forme du récipient (huile, eau, sirop, jus, lait …) 
-</dd></dl>
+
 Sur la fiche 2 :  regarde les images de paysages : nuages, pluie, mer, glacier, etc…
 
 A ton avis, qu’est-ce qui est commun à toutes ces images ? 
