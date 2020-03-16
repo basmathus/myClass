@@ -9,7 +9,16 @@ Je dois colorier le jour d'aujourd'hui travaillé en bleu
 ## Phonologie : Orthographier les mots sans erreur.
 
 > Demande à un adulte de te dicter les phrases suivantes, copie les dans ton cahier de travail :
-Zoé ne va jamais sur les manèges. Le directeur porte des lunettes . Cette semaine, j’ai une écharpe sur le nez car il ne `fait (à donner)` pas assez chaud . Le méchant loup mange le petit cochon. Les vaches mangent de l’herbe.
+
+Zoé ne va jamais sur les manèges. 
+
+Le directeur porte des lunettes . 
+
+Cette semaine, j’ai une écharpe sur le nez car il ne `fait (à donner)` pas assez chaud . 
+
+Le méchant loup mange le petit cochon. 
+
+Les vaches mangent de l’herbe.
 
 ## Dictée 
 
@@ -97,24 +106,27 @@ Dans ton cahier de QLM, recopie le titre puis écris tes hypothèses :
 
 **Qu’est-ce qu’un solide?**
 
-*Mes hypothèses* :
-
+<dl>
+  <dt>*Mes hypothèses* :</dt>
+<dd>
 Chez toi, prends quelques solides : exemples : stylo, taille crayon, pâte à modeler, semoule, lentilles, cailloux...
 
 Copie dans ton cahier :
 
 Nous pouvons tenir dans les mains un solide, on peut faire des tas avec ex : sable, semoule, lentilles, cailloux, pâte à modeler, etc…
+</dd>
 
 **Qu’est-ce qu’un liquide?**
 
-*Mes hypothèses* :
-
+<dl>
+  <dt>*Mes hypothèses*</dt> :
+<dd>
 Chez toi, mets un peu d’eau dans un gobelet.
 
 Copie dans ton cahier:
 
 Nous ne pouvons pas prendre un liquide avec les doigts, il coule. Les liquides prennent la forme du récipient (huile, eau, sirop, jus, lait …) 
-
+</dd></dl>
 Sur la fiche 2 :  regarde les images de paysages : nuages, pluie, mer, glacier, etc…
 
 A ton avis, qu’est-ce qui est commun à toutes ces images ? 
