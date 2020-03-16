@@ -29,10 +29,12 @@ Je lis tous les mots de la fiche son \[eu\].
 Je colorie les 3 premiers mots en jaune.
 
 ## Grammaire : 
-```Identifier les phrases, les groupes dans la phrase, le verbe, le sujet et comprendre la relation sujet/verbe, Transformer une phrase négative en phrase affirmative et vice versa, Interpréter et employer les pronoms, Orthographier les formes verbales les plus fréquentes., Découvrir et employer l’imparfait.```
+``` python
+Identifier les phrases, les groupes dans la phrase, le verbe, le sujet et comprendre la relation sujet/verbe, Transformer une phrase négative en phrase affirmative et vice versa, Interpréter et employer les pronoms, Orthographier les formes verbales les plus fréquentes., Découvrir et employer l’imparfait.
+```
 
 Je lis le texte de la semaine rangé dans mon lutin:
-```Quand Zouzou était un jeune chiot```
+`Quand Zouzou était un jeune chiot`
 
 Phase orale à faire avec l’aide d’ un adulte :
 
